@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlphaOwlGit
 - 👀 I’m interested in Video Game Design
-- 🌱 I’m currently learning GED
+- 🌱 I’m currently learning Computer Game Design at UCSC
 - 💞️ I’m looking to collaborate on GFL TTT Rotation
 - 📫 How to reach me AlphaOwl#5778
 
