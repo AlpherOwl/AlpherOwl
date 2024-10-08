@@ -1,4 +1,4 @@
-- 👋 Hi, I’m ALphaOwl, aka @AlphaOwlGit on Github.
+- 👋 Hi, I’m AlphaOwl, aka @AlphaOwlGit on Github.
 - 👀 I’m interested in Computer Game Design, specifically level design and programming.
 - 🌱 I’m currently learning Computer Game Design at UCSC!
 - 💞️ I previously worked on GFL TTT Rotation, a GMOD Server.
