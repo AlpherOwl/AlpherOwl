@@ -9,6 +9,11 @@ body {
   text-align: center;
 }
 
+h2 {
+  font-family: Helvetica, sans-serif;
+  font-size: 32px;
+}
+
 header {
   background: #333;
   color: #fff;
@@ -50,9 +55,9 @@ html {
   width: 1280px;
   height: 720px;
   margin: auto;
-  border-radius: 10px;
+  border-radius: 20px;
   overflow: hidden;
-  box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.5);
 }
 
 .swiper-slide img {
@@ -64,4 +69,23 @@ html {
 .swiper-button-next,
 .swiper-button-prev {
   color: #ffffff; /* Use any HEX, RGB, or color name */
+}
+
+#about {
+  background-color: #242424;
+  color: white;
+  padding: 50px;
+  text-align: left;
+}
+
+#projects {
+  background-color: #f0f0f0;
+  color: #333;
+  padding: 50px;
+}
+
+#cs-maps {
+  background-color: #fd9800;
+  color: #333;
+  padding: 50px;
 }
