@@ -21,6 +21,7 @@ header {
   text-align: center;
   position: fixed;
   width: 100%;
+  z-index: 1000;
 }
 
 nav a {
@@ -88,4 +89,25 @@ html {
   background-color: #fd9800;
   color: #333;
   padding: 50px;
+}
+
+.wrapped-img {
+      float: right; /* or right */
+      margin: 0 15px 15px 0; /* top-right-bottom-left */
+      width: 500px;
+}
+
+button {
+    padding: 20px 40px;
+    background-color: transparent;
+    color: #242424;
+    border: groove;
+    border-radius: 6px;
+    cursor: pointer;
+    font-family: Bahnschrift;
+    font-size: 24px;
+}
+
+  button:hover {
+    background-color: #5a1414;
 }
