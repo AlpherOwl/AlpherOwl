@@ -77,18 +77,21 @@ html {
   color: white;
   padding: 50px;
   text-align: left;
+  border-radius: 20px;
 }
 
 #projects {
   background-color: #f0f0f0;
   color: #333;
   padding: 50px;
+  border-radius: 20px;
 }
 
 #cs-maps {
   background-color: #fd9800;
   color: #333;
   padding: 50px;
+  border-radius: 20px;
 }
 
 .wrapped-img {
